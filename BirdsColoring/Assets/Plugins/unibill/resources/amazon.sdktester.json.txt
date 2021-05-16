@@ -1,0 +1,1 @@
+{"iap_all_birdscoloring":{"itemType":"ENTITLED", "title":"Unlock Everything and Ads Free Game", "description":"Unlock Everything and Ads Free Game", "price":0,99, "smallIconUrl":"http://example.com"}}

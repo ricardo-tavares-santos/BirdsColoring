@@ -1,0 +1,2 @@
+SKU	Product ID	Reference Name	Type	Cleared For Sale	Wholesale Price Tier	Displayed Name	Description	Screenshot Path
+	iap_all_birdscoloring	Unlock Everything and Ads Free Game	Non-Consumable	yes	0	Unlock Everything and Ads Free Game	Unlock Everything and Ads Free Game	
